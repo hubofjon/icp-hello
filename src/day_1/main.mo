@@ -68,7 +68,7 @@ actor {
     };  
   // challenge-9
   public func remove_from_array (n : Nat, x: [Nat]) : async Nat {
-        return (n+m)
+        return (n)
     };
   // challenge-10
   public func selection_sort ( x: [Nat]) : async Nat {
